@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Muzifa-binte">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=300a57&fontSize=54&height=90&width=420&text=Hello!%20I'm" alt="Hello! I&#39;m" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=573f0a&fontSize=54&height=90&width=420&text=Hello!%20I'm" alt="Hello! I&#39;m" />
   </a>
 </p>
 
@@ -59,14 +59,14 @@ My Data Science background sharpens how I approach every project — with an emp
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Muzifa-binte&show_icons=true&theme=tokyonight&title_color=300a57&icon_color=300a57&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Muzifa-binte&layout=compact&theme=tokyonight&title_color=300a57&icon_color=300a57&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Muzifa-binte&show_icons=true&theme=tokyonight&title_color=573f0a&icon_color=573f0a&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Muzifa-binte&layout=compact&theme=tokyonight&title_color=573f0a&icon_color=573f0a&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Muzifa-binte&bg_color=00000000&color=300a57&line=300a57&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Muzifa-binte&bg_color=00000000&color=573f0a&line=573f0a&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
