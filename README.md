@@ -14,7 +14,10 @@ I'm a Data Science student at the University of Engineering &amp; Technology, La
 I've designed and built systems ranging from a full-scale business management platform with JWT authentication, financial ledgers, and automated reporting, to an AI-powered career development tool integrating LLMs for resume analysis and personalized guidance, to a civic-tech reporting platform using semantic AI to intelligently prioritize and route data.  
 My Data Science background sharpens how I approach every project — with an emphasis on data integrity, efficient logic, and measurable outcomes. Currently interning in AI/ML and Python development, I'm actively seeking opportunities in Full-Stack Development and Data Science where I can keep building meaningful, production-ready solutions.
 
-🌱 &nbsp;I'm currently learning **Google Data Analytics**
+🌱 &nbsp;I'm currently learning **Data Science &amp; Machine Learning fundamentals,Google Data Analytics**  
+👯 &nbsp;I'm looking to collaborate on **Python/Flask &amp; FastAPI projects, and AI-integrated web applications**  
+💬 &nbsp;Ask me about **Python, Flask, FastAPI, SQL/SQLite, C# (ASP.NET MVC), and full-stack web development**  
+⚡ &nbsp;Fun fact: **I built an ERP system for gold &amp; jewellery businesses complete with gold-rate tracking for 24K–18K**
 
 ### 🛠️ Tech Stack
 
